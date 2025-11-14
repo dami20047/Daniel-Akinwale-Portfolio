@@ -1,6 +1,6 @@
 ---
 layout: project
-title: Mechatronics
+title: Mechatronics Test
 description: Class that taught circuits and Arduino with robot competition at the end
 technologies: [Fusion360, Arduino IDE, Google Slides]
 image: /assets/images/mechatronics.jpg
